@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "paikarasocial",
   "version": "1.0.0",
@@ -9,3 +10,18 @@
     "express": "^4.18.2"
   }
 }
+=======
+{
+  "name": "group-chat-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pusher": "^5.0.2"
+  }
+}
+>>>>>>> ca74386cc02f3169bfe1e877aed3d3c4abcfd3b9
